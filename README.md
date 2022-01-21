@@ -1,3 +1,3 @@
 # NPM
 
-![hvj]screenshot.jpg)
+![hvj](screenshot.jpg)
