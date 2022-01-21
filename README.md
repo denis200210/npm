@@ -1,3 +1,3 @@
 # NPM
 
-![Скриншот](screenshot.png)
+![hvj](screen.png)
